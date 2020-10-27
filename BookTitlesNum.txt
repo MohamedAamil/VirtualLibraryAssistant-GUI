@@ -1,0 +1,559 @@
+1001+3D Scientific Visualization with Blender+ Kent B R
+1002+A Biophysical Research Primer+ Beveridge D L
+1003+A Brief Introduction to Topology and Differential Geometry in Condensed Matter Physics+ Pires A S T
+1004+A Concise Introduction to Quantum Mechanics+ Swanson M S
+1005+A Course on Digital Image Processing with MATLAB+ Thiruvikraman P K
+1006+A Guided Tour of Light Beams � From lasers to optical knots+ Simon D S
+1007+A Guided Tour of Light Beams (Second Edition) � From lasers to optical knots+ Simon D S
+1008+A Handbook of Mathematical Methods and Problem-Solving Tools for Introductory Physics+ Whitney J F
+1009+A Journey into Reciprocal Space � A crystallographer�s perspective+ Glazer A M
+1010+A Mathematically Coherent Quantum Gravity+ Moffat J
+1011+A Modern Course in Quantum Field Theory, Volume 1 � Fundamentals+ Ydri B
+1012+A Modern Course in Quantum Field Theory, Volume 2 � Advanced topics+ Ydri B
+1013+A Modern Introduction to Neutrino Physics+ Deppisch F F
+1014+A Pedagogical Introduction to Electroweak Baryogenesis+ White G
+1015+A Practical Introduction to Beam Optics and Particle Accelerators+ Bernal S
+1016+A Practical Introduction to Beam Physics and Particle Accelerators, 2nd Edition+ Bernal S
+1017+A Short Course on Relativistic Heavy Ion Collisions+ Chaudhuri A K
+1018+A Tour of the Subatomic Zoo � A guide to particle physics: 3rd edition+ Schwarz C
+1019+AdS/CFT Correspondence in Condensed Matter+ Pires A S T
+1020+Advanced Digital Imaging Laboratory Using MATLAB, 2nd Edition+ Yaroslavsky L P
+1021+Advanced Digital Imaging Laboratory Using MATLAB+ Yaroslavsky L P
+1022+Advanced Numerical and Theoretical Methods for Photonic Crystals and Metamaterials+ Felbacq D
+1023+Advanced Secure Optical Image Processing for Communications+ Al Falou P A
+1024+Advanced Solid State Theory+ Pruschke T
+1025+Advanced Tokamak Stability Theory+ Zheng L
+1026+Advances in Modern Sensors � Physics, design, simulation and applications+ Sinha G R
+1027+Advances in Nanomaterials for Drug Delivery � Polymeric, nanocarbon and bio-inspired+ Karimi M
+1028+Advances in Optical Surface Texture Metrology+ Leach R
+1029+Advances in Thermodynamics of the van der Waals Fluid+ Johnston D C
+1030+Advances in X-Ray Spectroscopy of Laser Plasmas+ Oks E
+1031+Adventures with Lissajous Figures+ Greenslade Jr. T B
+1032+After the War � Women in physics in the United States+ Howes R H
+1033+Ahead of the Curve, Volume 1 � Hidden breakthroughs in the biosciences+ Levin M
+1034+Ahead of the Curve, Volume 2 � Hidden breakthroughs in the biosciences+ Levin M
+1035+Airborne Maritime Surveillance Radar, Volume 1 � British ASV radars in WWII 1939�1945+ Watts S
+1036+Airborne Maritime Surveillance Radar, Volume 2 � Post-war British ASV radars 1946�2000+ Watts S
+1037+Airborne Radioactive Discharges and Human Health Effects � An introduction+ Bryant P A
+1038+Air-Puff Tonometers � Challenges and insights+ Koprowski P R
+1039+Algorithmic Information Theory for Physicists and Natural Scientists+ Devine S D
+1040+An Approach to Dark Matter Modelling+ Basak T
+1041+An Introduction to Chemical Kinetics+ Vallance C
+1042+An Introduction to Elementary Particle Phenomenology+ Ratcliffe P G
+1043+An Introduction to Fluorescence Correlation Spectroscopy+ Wohland P T
+1044+An Introduction to Liquid Crystals+ DiLisi G A
+1045+An Introduction to Planetary Nebulae+ Nishiyama J J
+1046+An Introduction to Plasma Physics and Its Space Applications, Volume 1 � Fundamentals and elementary processes+ Conde L
+1047+An Introduction to Plasma Physics and its Space Applications, Volume 2+ Conde L
+1048+An Introduction to Quantum Communications Networks � Or, how shall we communicate in the quantum era?+ Razavi M
+1049+An Introduction to Quantum Monte Carlo Methods+ Pang T
+1050+An Introduction to Quantum Optics � An open systems approach+ Rice P D P
+1051+An Introduction to Quantum Theory+ Greensite J
+1052+An Introduction to the Formalism of Quantum Information with Continuous Variables+ Navarrete-Benlloch C
+1053+An Introduction to the Gas Phase+ Vallance C
+1054+An Introduction to the Physics of Nuclear Medicine+ Harkness-Brennan L
+1055+An Introduction to Time-of-Flight Secondary Ion Mass Spectrometry (ToF-SIMS) and its Application to Materials Science+ Fearn S
+1056+An Introduction to Time-Resolved Optically Stimulated Luminescence+ Chithambo M L
+1057+Analysis of the Alkali Metal Diatomic Spectra � Using molecular beams and ultracold molecules+ Kim J
+1058+Analytical Advances in Quantum and Celestial Mechanics � Separating rapid and slow subsystems+ Oks E
+1059+Analytical Lens Design+ Gonz�lez-Acu�a R G
+1060+Anatomy for the Royal College of Radiologists Fellowship � Illustrated questions and answers+ Murchison A G
+1061+Anthropomorphic Phantoms in Image Quality and Patient Dose Optimization � A EUTEMPE Network book+ Bliznakova K
+1062+Antimicrobial Photodynamic Inactivation and Antitumor Photodynamic Therapy with Fullerenes+ Freitas L F d
+1063+Application of Low Dimensional Topological Materials in Spintronics+ Wu P J
+1064+Applied Digital Logic Exercises Using FPGAs+ Wick K
+1065+Astronomy Education Volume 1 � Evidence-based instruction for introductory courses+ Impey P C
+1066+Astrophysical Recipes � The art of AMUSE+ Portegies Zwart S
+1067+Astrophysics of Red Supergiants+ Levesque E M
+1068+Atomic and Molecular Physics � A primer+ Colombo P L
+1069+Atomic Bomb: The Story of the Manhattan Project � How nuclear physics became a global geopolitical game-changer+ Reed B C
+1070+Atomic Physics+ Ewart P
+1071+Atomic Structure+ Whelan C T
+1072+Atoms and Photons and Quanta, Oh My! Ask the physicist about atomic, nuclear and quantum physics+ Baker F T
+1073+B Factories+ Golob B
+1074+Balancing Green Power How to deal with variable energy sources+ Elliott P D
+1075+Basic Surfaces and their Analysis+ Goncharova L V
+1076+Beyond Curie � Four women in physics and their remarkable discoveries, 1903 to 1963+ Calvin S
+1077+Bias in Science and Communication � A field guide+ Welsh D M
+1078+Biochar � Emerging applications+ Tagliaferro P A
+1079+Biomechanical Modeling of the Cardiovascular System+ Luis Armentano R
+1080+Biomedical Engineering Modeling for Medical Assessment, Vol 1 � Glucose-insulin regulation and diabetes detection+ Ghista P D N
+1081+Biomedical Engineering Modeling for Medical Assessment, Vol 2 � Lung ventilation and gas-transfer+ Ghista P D N
+1082+Biomedical Engineering Modeling for Medical Assessment, Vol 3 � Renal system+ Ghista P D N
+1083+Biophotonics: Vibrational Spectroscopic Diagnostics+ Baker M J
+1084+Biophysical and Chemical Properties of Collagen: Biomedical Applications+ Ramshaw P J A M
+1085+Biophysics of the Senses+ Presley T D
+1086+Butterfly in the Quantum World � The story of the most fascinating quantum fractal+ Satija I I
+1087+Calcium Signals � From single molecules to physiology+ Ben-Johny P M
+1088+Can Physics Save Miami (and Shanghai and Venice, by Lowering the Sea)?+ Wolf E
+1089+Capture and Relaxation in Self-Assembled Semiconductor Quantum Dots � The dot and its environment+ Ferreira R
+1090+Carbon Nanotubes in Drug and Gene Delivery+ Karimi M
+1091+Causality Rules � A light treatise on dispersion relations and sum rules+ Pascalutsa V
+1092+Characterisation Methods in Solid State and Materials Science+ Morrison K
+1093+Charged Beam Dynamics, Particle Accelerators and Free Electron Lasers+ Dattoli G
+1094+Classical Electrodynamics: Lecture Notes, Volume 3 � Lecture notes+ Likharev K K
+1095+Classical Electrodynamics: Problems with solutions � Problems with solutions+ Likharev K K
+1096+Classical Field Theory and the Stress�Energy Tensor+ Swanson M S
+1097+Classical Mechanics � A professor�student collaboration+ Campanelli M
+1098+Classical Mechanics, Volume 1 � Tools and vectors+ DiLisi G A
+1099+Classical Mechanics, Volume 2 � Kinematics and uniformly accelerated motion+ DiLisi G A
+1100+Classical Mechanics, Volume 3 � Newton�s laws and uniform circular motion+ DiLisi G A
+1101+Classical Mechanics, Volume 4 � The universal law of gravitation+ DiLisi G A
+1102+Classical Mechanics, Volume 5 � Conservation laws and rotational motion+ DiLisi G A
+1103+Classical Mechanics: Lecture notes � Lecture notes+ Likharev K K
+1104+Classical Mechanics: Problems with solutions � Problems with solutions+ Likharev K K
+1105+Classical Theory of Free-Electron Lasers+ Szarmes E B
+1106+Climate Change Resilience in the Urban Environment+ Kershaw D T
+1107+Climate Engineering+ Watson M
+1108+Cold Atoms and Molecules+ Kajita M
+1109+Cold Plasma Cancer Therapy+ Keidar M
+1110+Collective Light Emission � Many quantum emitters+ Jen (Richard) H
+1111+Comets in the 21st Century � A personal guide to experiencing the next great comet!+ Boice D C
+1112+Composite Materials � Mathematical theory and exact relations+ Grabovsky Y
+1113+Computation in Science (Second Edition) � From concepts to practice+ Hinsen K
+1114+Computation in Science+ Hinsen K
+1115+Computational Anatomical Animal Models � Methodological developments and research applications+ Zaidi H
+1116+Computational Approaches in Physics+ Fyta M
+1117+Computational Physics, Volume 1 � An Introducton+ Hjorth-Jensen M
+1118+Computational Physics, Volume 2 � An advanced course+ Hjorth-Jensen M
+1119+Concepts and Applications of Nonlinear Terahertz Spectroscopy+ Elsaesser T
+1120+Concepts in Physical Metallurgy � Concise lecture notes+ Lavakumar A
+1121+Confocal Microscopy+ Liu P J
+1122+Creating Materials with a Desired Refraction Coefficient (Second Edition)+ Ramm A G
+1123+Creating Materials with a Desired Refraction Coef?cient+ Ramm A G
+1124+Creating the Molecules of Life+ Boyd P D R N
+1125+Crystal Engineering � How molecules build solids+ Williams J H
+1126+Dark Matter in the Universe+ Seigar M S
+1127+Defining and Measuring Nature � The make of all things+ Williams J H
+1128+Defining and Measuring Nature (Second Edition) � The make of all things+ Williams J H
+1129+Design and Shielding of Radiotherapy Treatment Facilities � IPEM Report 75+ Horton P P
+1130+Designing Hybrid Nanoparticles+ Benelmekki M
+1131+Detecting the Stochastic Gravitational-Wave Background+ Colacino C N
+1132+Differential Topology and Geometry with Applications to Physics+ Nahmad-Achar E
+1133+Digital Informatics and Isotopic Biology � Self-organization and isotopically diverse systems in physics, biology and technology+ Berezin A
+1134+Digital Matter+ Moriarty P P
+1135+Discharge in Long Air Gaps � Modelling and applications+ Beroual A
+1136+Discrete Quantum Mechanics+ Williams H T
+1137+Disorder in Domain Theory+ Martin K
+1138+Dynamical Properties in Nanostructured and Low-Dimensional Materials+ Cottam M G
+1139+Earthquakes � The sound of multi-modal waves+ Matson W R
+1140+Ecological Modelling and Ecophysics � Agricultural and environmental applications+ Fort H
+1141+Effective Science Communication � A practical guide to surviving as a scientist+ Illingworth S
+1142+Effective Science Communication (Second Edition) � A practical guide to surviving as a scientist+ Illingworth S
+1143+Electrodynamics � Problems and solutions+ Ilie C C
+1144+Electromagnetic Waves and Lasers (Second Edition)+ Kimura W D
+1145+Electromagnetic Waves and Lasers+ Kimura W D
+1146+Electromagnetics in Magnetic Resonance Imaging � Physical principles, related applications, and ongoing developments+ Collins C M
+1147+Electromagnetism � Problems and solutions+ Ilie C C
+1148+Electromechanical Energy Conversion Through Active Learning+ Cardoso P J R
+1149+Electromechanical Machinery Theory and Performance+ Ortmeyer P T H
+1150+Electronic Structure of Organic Semiconductors � Polymers and small molecules+ Alc�cer L s
+1151+Electrons in Solids � Contemporary topics+ Dunlap R A
+1152+Electrostatic Phenomena on Planetary Surfaces+ Calle C I
+1153+Electrostatics at the Molecular Level+ Zurcher U
+1154+Elementary Cosmology � From Aristotle's Universe to the Big Bang and beyond+ Kolata J J
+1155+Elements of Photoionization Quantum Dynamics Methods+ Nikolopoulos L A A
+1156+Elliptical Mirrors � Applications in microscopy+ Liu P J
+1157+Emerging Models for Global Health in Radiation Oncology+ Ngwa W
+1158+Emerging Photovoltaic Technologies+ Jean J
+1159+Energy Density Functional Methods for Atomic Nuclei+ Schunck N
+1160+Energy Harvesting Properties of Electrospun Nanofibers+ Lin P T
+1161+Energy-Smart Buildings � Design, construction and monitoring of buildings for improved energy efficiency+ Lamb D J J
+1162+Engineering Electrodynamics � A Collection of Theorems, Principles and Field Representations+ Janaswamy P D R
+1163+Entrepreneurship for Creative Scientists+ Parker D
+1164+Entrepreneurship for Physicists � A practical guide to move inventions from university to market+ Iannuzzi D
+1165+Entropy Beyond the Second Law � Thermodynamics and statistical mechanics for equilibrium, non-equilibrium, classical, and quantum systems+ Attard P
+1166+Essential Classical Mechanics for Device Physics+ Levi A F J
+1167+Essential Fluid Dynamics for Scientists+ Braithwaite J
+1168+Essential Mathematics for the Physical Sciences � Homogeneous boundary value problems, Fourier methods, and special functions: Volume I+ Borden B
+1169+Essential Semiconductor Laser Device Physics+ Levi A F J
+1170+Essentials of Nucleosynthesis and Theoretical Nuclear Astrophysics+ Rauscher T
+1171+Evolutionary Dynamics � The mathematics of genes and traits+ van den Berg H
+1172+Excel VBA for Physicists � A Primer+ Liengme B V
+1173+Experimental Particle Physics � Understanding the measurements and searches at the Large Hadron Collider+ Kar D
+1174+Explicit Symmetry Breaking in Electrodynamic Systems and Electromagnetic Radiation+ Sinha D
+1175+Exploring Physics with Computer Animation and PhysGL+ Bensky T J
+1176+External Field and Radiation Stimulated Breast Cancer Nanotheranostics+ Thorat N D
+1177+Extragalactic Astrophysics+ Webb J R
+1178+Extragalactic Novae � A historical perspective+ Shafter A W
+1179+Extreme Solar Particle Storms � The hostile Sun+ Miyake P F
+1180+Extreme-Temperature and Harsh-Environment Electronics � Physics, technology and applications+ Khanna V K
+1181+Fast-Scanning Mirrors � Design and Applications+ Ward CEO R N
+1182+Flexible Electronics, Volume 1 � Mechanical background, materials and manufacturing+ Khanna V K
+1183+Flexible Electronics, Volume 2 � Thin-film transistors+ Khanna V K
+1184+Flexible Electronics, Volume 3 � Energy devices and applications+ Khanna V K
+1185+Flow Dynamics and Tissue Engineering of Blood Vessels+ Bit D A
+1186+Flow Measurement by Electromagnetic Induction � Theory and numerical methods+ Zhang X
+1187+Fluids in Porous Media � Transport and phase changes+ Huinink H
+1188+Foundations of Quantum Cosmology+ Bojowald M
+1189+Foundations of Regenerative Biology and Medicine+ Stocum P D L
+1190+Fourier Ptychographic Imaging � A MATLAB tutorial+ Zheng G
+1191+Fourier Transform and Its Applications Using Microsoft EXCEL+ Cho S
+1192+From Complex to Simple � Interdisciplinary stochastic models+ Mazilu D A
+1193+From Newton to Einstein � Ask the physicist about mechanics and relativity+ Baker F T
+1194+Functional Ceramics Through Mechanochemical Activation+ Kong D L B
+1195+Fundamentals of Quantum Entanglement+ Duarte F J
+1196+Gamma-ray Burst Correlations � Current status and open questions+ Dainotti D M
+1197+Gamma-Ray Bursts+ Levan A
+1198+Gas-Phase Chemistry in Space � From elementary particles to complex organic molecules+ Lique D F o
+1199+General Relativity: An Introduction to Black Holes, Gravitational Waves, and Cosmology+ Hall M J W
+1200+Generalized Hypergeometric Functions � Transformations and group theoretical aspects+ Rao K S
+1201+Global Approaches to Environmental Management on Military Training Ranges+ Temple T
+1202+Global Oncology � Harvard Global Health Catalyst summit lecture notes+ Ngwa W
+1203+Graphene Nanoribbons+ Brey L
+1204+Graphene Optics: Electromagnetic Solution of Canonical Problems+ Depine R A
+1205+Gravity, Magnetic and Electromagnetic Gradiometry � Strategic technologies in the 21st century+ Veryaskin A V
+1206+Green Nanomaterials � From bioinspired synthesis to sustainable manufacturing of inorganic nanomaterials+ Patwardhan S
+1207+Guidance on the Personal Monitoring Requirements for Personnel Working in Healthcare+ Martin D C J
+1208+Guide Through the Nanocarbon Jungle � Buckyballs, nanotubes, graphene and beyond+ Tom�nek D
+1209+Hadronic Jets � An introduction+ Banfi A
+1210+Halo Nuclei+ Al-Khalili OBE J
+1211+Handbook of Exact Solutions to the Nonlinear Schr�dinger Equations+ Al Khawaja U
+1212+High Power Microwave Tubes: Basics and Trends, Volume 1+ Kesari V
+1213+High Power Microwave Tubes: Basics and Trends, Volume 2+ Kesari V
+1214+How to Understand Quantum Mechanics+ Ralston J P
+1215+Hubble Deep Field and the Distant Universe+ Williams P R
+1216+Hyperbolic Metamaterials+ Smolyaninov I I
+1217+Hypersonic Meteoroid Entry Physics+ Colonna G
+1218+Imaging in Degraded Viewing Environments+ Jacobs E
+1219+Impurity Transport in Magnetically Confined Plasmas+ Ida K
+1220+Infinite-Space Dyadic Green Functions in Electromagnetism+ Faryad M
+1221+Infrared Imaging � A casebook in clinical medicine+ Ring F
+1222+Intensity Modulated Radiation Therapy+ Das I J
+1223+International Linear Collider (ILC) � The next mega-scale particle collider+ Drutskoy A
+1224+Introduction to Beam Dynamics in High-Energy Electron Storage Rings+ Wolski A
+1225+Introduction to Cellular Biophysics, Volume 1 � Membrane transport mechanisms+ Kargol A
+1226+Introduction to Cellular Biophysics, Volume 2 � From membrane transport to neural signalling+ Kargol A
+1227+Introduction to Classical Field Theory � A tour of the fundamental interactions+ Lancaster J L
+1228+Introduction to Computational Physics for Undergraduates+ Zubairi O
+1229+Introduction to Focused Ion Beam Nanometrology+ Cox D C
+1230+Introduction to Nanomaterials in Medicine+ Rabiee M
+1231+Introduction to Pharmaceutical Biotechnology, Volume 1 � Basic techniques and concepts+ Bhatia S
+1232+Introduction to Pharmaceutical Biotechnology, Volume 2 � Enzymes, proteins and bioinformatics+ Bhatia S
+1233+Introduction to Pharmaceutical Biotechnology, Volume 3 � Animal tissue culture and biopharmaceuticals+ Bhatia S
+1234+Introduction to Quantum Field Theory and Computing+ Meurice P Y
+1235+Introduction to Simulation Methods for Gas Discharge Plasmas � Accuracy, reliability and limitations+ Rafatov P I
+1236+Introduction to the Kinetics of Glow Discharges+ Yuan C
+1237+Introduction to the Mathematical Physics of Nonlinear Waves+ Fujimoto M
+1238+Introduction to the Physics of the Cryosphere+ Sandells M
+1239+Inverse Imaging with Poisson Data � From cells to galaxies+ Bertero M
+1240+Inverse Modeling � An introduction to the theory and methods of inverse problems and data assimilation+ Nakamura G
+1241+Investigative Science Learning Environment � When learning physics mirrors doing physics+ Etkina E
+1242+Ion Beam Radiation Therapy � Current status and future directions+ Schulte R
+1243+Ionization and Ion Transport � A primer for the study of non-equilibrium, low-temperature gas discharges and plasmas+ Go D B
+1244+Is It the 'Same' Result: Replication in Physics+ Franklin A
+1245+Keplerian Ellipses � The physics of the gravitational two-body problem+ Reed B C
+1246+Key Nuclear Reaction Experiments � Discoveries and consequences+ Paetz gen. Schieck H
+1247+Kinematic Labs with Mobile Devices+ Kinser J M
+1248+Knowledge-Based Planning for Radiotherapy+ Moore K
+1249+Laser Micromachining � Fundamentals and applications+ Issa D A
+1250+Laser Safety � Practical knowledge and solutions+ Barat CLSO K
+1251+Lasers and Their Application to the Observation of Bose�Einstein Condensates+ Dunlap R A
+1252+Lasers in Medical Diagnosis and Therapy � Basics, applications and future prospects+ Gerhard C
+1253+Lattice Boltzmann Modeling of Complex Flows for Engineering Applications+ Montessori A
+1254+Leadership and Challenges in Medical Physics: A Strategic and Robust Approach � A EUTEMPE network book+ Caruana C J
+1255+Lectures on General Relativity, Cosmology and Quantum Black Holes+ Ydri B
+1256+Lectures on Selected Topics in Mathematical Physics � Further applications of Lie theory+ Schwalm W A
+1257+Lectures on Selected Topics in Mathematical Physics: Elliptic Functions and Elliptic Integrals+ Schwalm W A
+1258+Lectures on Selected Topics in Mathematical Physics: Introduction to Lie Theory with Applications+ Schwalm W A
+1259+Lectures on the Physics of Extreme States of Matter+ Fortov V E
+1260+Lens Design � Automatic and quasi-autonomous computational methods and techniques+ Dilworth D
+1261+Leonhard Euler's Letters to a German Princess � A milestone in the history of physics textbooks and more+ Calinger R
+1262+Life With Hubble � An insider's view of the world's most famous telescope+ Leckrone D D S
+1263+Liquid Crystals Through Experiments+ Cepic M
+1264+Liquid Crystals+ Outram B
+1265+Liquid Dielectrics in an Inhomogeneous Pulsed Electric Field (Second Edition) � Dynamics, cavitation and related phenomena+ Shneider M N
+1266+Liquid Dielectrics in an Inhomogeneous Pulsed Electric Field+ Shneider M N
+1267+Lithium Niobate-Based Heterostructures � Synthesis, Properties and Electron Phenomena+ Sumets D M
+1268+Logic for Physicists+ Pereyra N A
+1269+Low Frequency Waves and Turbulence in Magnetized Laboratory Plasmas and in the Ionosphere+ P�cseli P H
+1270+Lung Cancer and Imaging+ El-Baz A
+1271+Machine Learning for Tomographic Imaging+ Wang P G
+1272+Magnesium-Based Nanocomposites � Advances and applications+ Gupta P M
+1273+Magnetic Excitations and Geometric Confinement � Theory and simulations+ Wysin G M
+1274+Magnetic Nanoparticles for Medical Diagnostics+ Sandhu A
+1275+Magnetically Confined Fusion Plasma Physics � Ideal MHD theory+ Zheng L
+1276+Magnetically Confined Fusion Plasma Physics, Volume 2 � Multifluid theory+ Zheng L
+1277+Maple � A primer+ Liengme B V
+1278+Mathematical Devices for Optical Sciences+ Baskal S
+1279+Matrix Models of String Theory+ Ydri B
+1280+Measurement, Uncertainty and Lasers+ Kajita M
+1281+Measuring Nothing, Repeatedly � Null experiments in physics+ Franklin A
+1282+Measuring Time � Frequency measurements and related developments in physics+ Kajita M
+1283+Mechanics of Biological Systems � Introduction to mechanobiology and experimental techniques+ Park S
+1284+Mechatronics � Dynamical systems approach and theory of holors+ Fijalkowski P B
+1285+Medical and Dental Guidance Notes � Radiation protection in the clinical environment+ Saunderson D J R
+1286+Metamaterial Multiverse+ Smolyaninov I I
+1287+Mitigation of Cancer Therapy Side-Effects with Light+ Nair R
+1288+Modeling and Analysis of Eclipsing Binary Stars � The theory and design principles of PHOEBE+ Pr�a A
+1289+Modeling and Simulating Cardiac Electrical Activity+ Christini D D J
+1290+Modeling Self-Heating Effects in Nanoscale Devices+ Vasileska D
+1291+Modelling and Analysis of Active Biopotential Signals in Healthcare, Volume 1+ Bajaj V
+1292+Modelling Physics with Microsoft Excel+ Liengme B V
+1293+Modern Analytical Electromagnetic Homogenization with Mathematica, Second Edition+ Mackay D T G
+1294+Modern Analytical Electromagnetic Homogenization+ Mackay T G
+1295+Modern Interferometry for Length Metrology � Exploring limits and novel techniques+ Sch�del P R
+1296+Modern Optimization Methods for Science, Engineering and Technology+ Sinha G R
+1297+Modern Physics � A critical approach+ Noce C
+1298+Molecular Dynamics for Amorphous Materials � Methodology and applications+ Massobrio D C
+1299+Molecular Photophysics and Spectroscopy+ Andrews D L
+1300+Motions of Celestial Bodies � Computer simulations+ Butikov E
+1301+Mott Insulators � Physics and applications+ Barman Roy S
+1302+Multimodality Imaging � Deep learning applications+ Suri J S
+1303+Multimodality Imaging of the Heart, Lungs and Peripheral Organs � Deep learning applications+ Biswas P M
+1304+Multiple Scattering Theory � Electronic structure of solids+ Faulkner J S
+1305+Multiscale Modeling of Vascular Dynamics of Micro- and Nano-particles � Application to drug delivery system+ Ye H
+1306+Musical Sound, Instruments, and Equipment+ Photinos P
+1307+Nanomaterials � The original product of nanotechnology+ Benelmekki M
+1308+Nanometrology Using the Transmission Electron Microscope+ Stolojan V
+1309+Nanoparticle (NP)-Based Delivery Vehicles+ Rabiee N
+1310+Nanoparticle Enhanced Radiation Therapy � Principles, methods and applications+ Sajo P E
+1311+Nanoscale Energy Transport � Emerging phenomena, methods and applications+ Liao P B
+1312+Nanoscopic Electrofocusing for Bio-Nanoelectronic Devices+ Lakshmanan S
+1313+Networks on Networks � The physics of geobiology and geochemistry+ Hunt A G
+1314+Neurological Disorders and Imaging Physics, Volume 1 � Application of multiple sclerosis+ Saba L
+1315+Neurological Disorders and Imaging Physics, Volume 2 � Engineering and clinical perspectives of multiple sclerosis+ El-Baz A
+1316+Neurological Disorders and Imaging Physics, Volume 3 � Application to autism spectrum disorders and Alzheimer�s+ El-Baz A
+1317+Neurological Disorders and Imaging Physics, Volume 4 � Application to attention deficit hyperactivity disorder+ El-Baz A
+1318+Neurological Disorders and Imaging Physics, Volume 5 � Applications in dyslexia, epilepsy and Parkinson�s+ El-Baz A
+1319+Neutron Stars, Black Holes and Gravitational Waves+ Kolata J J
+1320+New Technologies for Smart Grid Operation+ Mak S T
+1321+Non-Instantaneous Impulsive Differential Equations � Basic theory and computation+ Wang P J
+1322+Nonlinear Dynamics � A hands-on introductory survey+ Roussel M R
+1323+Nonlinear Guided Wave Optics � A testbed for extreme waves+ Wabnitz S
+1324+Nonlinear Optics of Photonic Crystals and Meta-Materials+ McGurn A R
+1325+Nonlinear Waves � Theory, computer simulation, experiment+ Todorov M D
+1326+Novel Microstructures for Solids+ Dunlap R A
+1327+Nuclear and Particle Physics+ Amsler C
+1328+Nuclear Materials Science (Second Edition)+ Whittle K
+1329+Nuclear Materials Science+ Whittle K
+1330+Nuclear Power � Past, present and future+ Elliott P D
+1331+Numerical Calculation for Physics Laboratory Projects Using Microsoft EXCEL+ Cho S
+1332+Numerical Modelling of Bulk Superconductor Magnetisation+ Ainslie D M
+1333+Numerical Solutions of Boundary Value Problems with Finite Difference Method+ Chowdhury S
+1334+Numerical Solutions of Initial Value Problems Using Mathematica+ Chowdhury S
+1335+Of Clocks and Time+ H�wel L
+1336+On the Principle of Holographic Scaling � From college physics to black hole thermodynamics+ Rodriguez L
+1337+One Physicist's Guide to Nuclear Weapons � A global perspective+ Bernstein J
+1338+Open-Channel Microfluidics � Fundamentals and applications+ Berthier J
+1339+Optical Cryptosystems+ Nishchal N K
+1340+Optical Fiber Multiplexing and Emerging Techniques � SDM and OAM+ Murshid S H
+1341+Optical Forces on Atoms+ Saif P F
+1342+Optical Nanomanipulation+ Andrews D L
+1343+Optical Properties of Graphene in Magnetic and Electric Fields+ Lin C
+1344+Optics � The science of light+ Ewart P
+1345+Optics Experiments and Demonstrations for Student Laboratories+ Lipson P S G
+1346+Order from Force � A natural history of the vacuum+ Williams J H
+1347+Organ Printing+ Lee J
+1348+Organic Lasers and Organic Photonics+ Duarte F J
+1349+Organic Narrowband Photodetectors � Materials, devices and applications+ Pecunia P V
+1350+Origins of Life � A cosmic perspective+ Whittet D
+1351+Outside the Research Lab, Volume 1 � Physics in the arts, architecture and design+ Holgate S A
+1352+Outside the Research Lab, Volume 2 � Physics in vintage and modern transport+ Holgate S A
+1353+Outside the Research Lab, Volume 3 � Physics in sport+ Holgate S A
+1354+Particle Identification Methods+ Krizan P
+1355+Particle Physics+ Dunlap R A
+1356+Particle Tracking Velocimetry+ Dabiri D
+1357+Particle�Antiparticle Asymmetry in the ?? Meson System+ Aihara H
+1358+Path Integral Quantization+ Swanson M S
+1359+PET-MRI+ Vandenberghe D S
+1360+Photo Acoustic and Optical Coherence Tomography Imaging Volume 1 � Diabetic Retinopathy+ El-Baz A
+1361+Photo Acoustic and Optical Coherence Tomography Imaging Volume 2 � Fundus Imaging for the Retina+ El-Baz A
+1362+Photo Acoustic and Optical Coherence Tomography Imaging Volume 3 � Angiography: - An Application in Vessel Imaging+ El-Baz A
+1363+Photomedicine and Stem Cells The Janus face of photodynamic therapy to kill cancer stem cells and photobiomodulation to stimulate normal stem cells+ Abrahamse H
+1364+Physics and the Environment+ Forinash III K
+1365+Physics and Video Analysis+ Allain R
+1366+Physics in Food Manufacturing � Case studies in fundamental and applied research+ Povey M
+1367+Physics is� � The Physicist explores attributes of physics+ Baker F T
+1368+Physics of Cancer: Second edition, volume 1 � Interplay between tumor biology, inflammation and cell mechanics+ Mierke C T
+1369+Physics of Cancer: Second edition, volume 2 � Cellular and microenvironmental effects+ Mierke C T
+1370+Physics of Cancer+ Mierke C T
+1371+Physics of Digital Photography (Second Edition)+ Rowlands A
+1372+Physics of Digital Photography+ Rowlands A
+1373+Physics of Shock and Impact, Volume 1 � Fundamentals and dynamic failure+ Grady D
+1374+Physics of Shock and Impact, Volume 2 � Materials and shock response+ Grady D
+1375+Physics of Surface, Interface and Cluster Catalysis+ Kasai H
+1376+Physics of the Atmosphere+ Caballero R
+1377+Physics of the Lorentz Group+ Baskal S
+1378+Pipelined Analog to Digital Converter and Fault Diagnosis+ Barua P A
+1379+Plasma Kinetic Theory+ Ratynskaia S
+1380+Plasma Modeling � Methods and applications+ Colonna G
+1381+Practical Analog, Digital, and Embedded Electronics for Scientists+ DePaola B D
+1382+Practical Electrodynamics with Advanced Applications+ Leble S
+1383+Practical Radiobiology for Proton Therapy Planning+ Jones D B
+1384+Precise Dimensions � A history of units from 1791�2018+ Cooper M
+1385+Predictive Analytics in Healthcare and Chronic Disease Management � Transforming the future of medicine+ Subbhuraam D V
+1386+Principles and Applications of Fourier Optics+ Tyson R K
+1387+Principles of Biophotonics, Volume 1 � Linear systems and the Fourier transform in optics+ Popescu G
+1388+Principles of Biophotonics, Volume 2 � Light emission, detection, and statistics+ Popescu G
+1389+Principles of Lightning Physics+ Mazur V
+1390+Principles of Protein�Protein Association+ Erickson P H P
+1391+Principles of Statistical Physics and Numerical Modeling+ Ryabov V A
+1392+Problem-Based Approaches to Physics � Changing perspectives in higher education+ Raine P D J
+1393+Protein and Peptide-based Microarrays for Multiplex Detection+ Rabiee D N
+1394+Python and Matplotlib Essentials for Scientists and Engineers+ Wood M A
+1395+Quantifying Measurement � The tyranny of numbers+ Williams J H
+1396+Quantised Vortices � A handbook of topological excitations+ Simula T
+1397+Quantitative Core Level Photoelectron Spectroscopy � A primer+ Santana J A C
+1398+Quantum Chemistry � A concise introduction for students of physics, chemistry, biochemistry and materials science+ Thakkar A J
+1399+Quantum Chemistry, 2nd Edition � A concise introduction for students of physics, chemistry, biochemistry and materials science+ Thakkar A J
+1400+Quantum Computing � A pathway to quantum logic design+ Babu H M H
+1401+Quantum Field Theory � An arcane setting for explaining the world+ Iengo R
+1402+Quantum Information in Gravitational Fields+ Lanzagorta M
+1403+Quantum Mechanics for Nuclear Structure, Volume 1 � A primer+ Heyde P K
+1404+Quantum Mechanics for Nuclear Structure, Volume 2 � An intermediate level view+ Heyde P K
+1405+Quantum Mechanics in the Single Photon Laboratory+ Waseem M H
+1406+Quantum Mechanics of the Diatomic Molecule with Applications+ Parigger C G
+1407+Quantum Mechanics: Lecture notes � Lecture notes+ Likharev K K
+1408+Quantum Mechanics: Problems with solutions � Problems with solutions+ Likharev K K
+1409+Quantum Mechanics+ Saleem M
+1410+Quantum Metrology with Photoelectrons, Volume 1 � Foundations+ Hockett P
+1411+Quantum Metrology with Photoelectrons, Volume 2 � Applications and advances+ Hockett P
+1412+Quantum Statistical Mechanics � Equilibrium and non-equilibrium theory from first principles+ Attard P
+1413+Quantum Thermodynamics � An introduction to the thermodynamics of quantum information+ Deffner S
+1414+Radiation Detection for Nuclear Physics � Methods and industrial applications+ Jenkins D
+1415+Radiation Dose Management of Pregnant Patients, Pregnant Staff and Paediatric Patients � Diagnostic and interventional radiology+ Damilakis J
+1416+Radiative Properties of Semiconductors+ Ravindra N M
+1417+Random Telegraph Signals in Semiconductor Devices+ Simoen E
+1418+Rays, Waves and Photons � A compendium of foundations and emerging technologies of pure and applied optics+ Wolfe W L
+1419+Recent Advances in Innovative Magnetic Nanomaterials for Cancer Theranostics+ Mukherjee S
+1420+Relativistic Many-Body Theory and Statistical Mechanics+ Horwitz L P
+1421+Relativistic Quantum Field Theory, Volume 1 � Canonical formalism+ Strickland M
+1422+Relativistic Quantum Field Theory, Volume 2 � Path integral formalism+ Strickland M
+1423+Relativistic Quantum Field Theory, Volume 3 � Applications of quantum field theory+ Strickland M
+1424+Relativity, Symmetry and the Structure of the Quantum Theory+ Klink W H
+1425+Relativity, Symmetry, and the Structure of Quantum Theory, Volume 2 � Point form relativistic quantum mechanics+ Klink W H
+1426+Renewables � A review of sustainable energy supply options+ Elliott P D
+1427+Renewables (Second Edition) � A review of sustainable energy supply options+ Elliott P D
+1428+Resonant Tunneling Diode Photonics � Devices and applications+ Ironside C
+1429+RF-MEMS Technology for High-Performance Passives � The challenge of 5G mobile applications+ Iannacci J
+1430+Rotation, Reflection, and Frame Changes � Orthogonal tensors in computational engineering mechanics+ Brannon R M
+1431+Run in the Light � Exploring exercise and photobiomodulation in Parkinson's disease+ Mitrofanis J
+1432+Science and Computing with Raspberry Pi+ Kent B R
+1433+Science in the Arena � Explanations and analyses of performances and phenomena in sport+ Baker B
+1434+Scientific Basis of the Royal College of Radiologists Fellowship � Illustrated questions and answers+ Sperrin M
+1435+Scientific Basis of the Royal College of Radiologists Fellowship (2nd Edition) � Illustrated questions and answers+ Sperrin M
+1436+Searching for Dark Matter with Cosmic Gamma Rays+ Albert A
+1437+Searching for Habitable Worlds � An introduction+ M�ndez A
+1438+Selective Photonic Disinfection � A ray of hope in the war against pathogens+ Tsen S D
+1439+Semiconductor Integrated Optics for Switching Light+ Ironside C
+1440+Semiconductor Non-Equilibrium Statistics+ Rodrigues P C G a
+1441+Semiconductors � Bonds and bands+ Ferry D K
+1442+Semiconductors (Second Edition) � Bonds and bands+ Ferry D K
+1443+Semiconductors and Modern Electronics+ Winrich C
+1444+Separation of Variables and Superintegrability � The symmetry of solvable systems+ Miller Jr Jr W
+1445+Set Theory for Physicists+ Pereyra N A
+1446+Silicene-Based Layered Materials � Essential properties+ Lin M
+1447+Silicon Photonics � Electromagnetic theory+ Westerveld M W J
+1448+Simulating Large-Scale Structure for Models of Cosmic Acceleration+ Li B
+1449+Single and Multicomponent Digital Optical Signal Analysis � Estimation of phase and its derivatives+ Rastogi P
+1450+Single Molecule Biophysics and Poisson Process Approach to Statistical Mechanics+ Sarkar S K
+1451+Singularities in Physics and Engineering � Properties, methods, and applications+ Senthilkumaran P D P
+1452+Skin Photoaging+ Yin R
+1453+Smart External Stimulus-Responsive Nanocarriers for Drug and Gene Delivery+ Karimi M
+1454+Smart Internal Stimulus-Responsive Nanocarriers for Drug and Gene Delivery+ Karimi M
+1455+SMath for Physics � A primer+ Liengme B V
+1456+Soft Biological Shells in Bioengineering+ Miftahof R N
+1457+Solid State Physics � A primer+ Colombo P L
+1458+Solitons in Crystalline Processes � Statistical thermodynamics of structural phase transitions and mesoscopic disorder+ Fujimoto M
+1459+Solitons in Crystalline Processes (2nd Edition) � Irreversible thermodynamics of structural phase transitions and superconductivity+ Fujimoto M
+1460+Some Critical Questions in Biological Physics � A guided tour around the bugbears+ Waigh D T
+1461+Sonic Thunder � A discussion of natural and artificial shock waves+ Matson W R
+1462+Sound-Power Flow � A practitioner's handbook for sound intensity+ Hickling R
+1463+Special and General Relativity � An introduction to spacetime and gravitation+ Dick R
+1464+Spectroscopic Probes of Quantum Matter+ Berthod D C
+1465+Spectroscopic Techniques for Archaeological and Cultural Heritage Research+ Shukla A K
+1466+Spectroscopic Tools for Food Analysis+ Shukla A K
+1467+Spin-Wave Theory and Its Applications to Neutron Scattering and THz Spectroscopy+ Fishman R S
+1468+Spiral Structure in Galaxies+ Seigar M S
+1469+Statistical Mechanics: Lecture notes � Lecture notes+ Likharev K K
+1470+Statistical Mechanics: Problems with solutions � Problems with solutions+ Likharev K K
+1471+Sterile Neutrino Dark Matter+ Merle A
+1472+Stigmatic Optics+ Gonz�lez-Acu�a R G
+1473+Stimuli-Responsive Polymers � Nano-dimension+ Rabiee N
+1474+String Theory and the Real World+ Kane G
+1475+Structure and Evolution of Single Stars � An introduction+ MacDonald J
+1476+Student Attitudes, Student Anxieties, and How to Address Them � A handbook for science teachers+ Kastrup H
+1477+Sun Protection � A risk management approach+ Diffey B
+1478+Super Optical Biosensors+ Xiao C
+1479+Superconducting Materials and Their Applications � An interdisciplinary approach+ Yakhmi P D J V
+1480+Supersymmetric Methods in Quantum, Statistical and Solid State Physics � Enlarged and Revised Edition+ Junker G
+1481+Symmetry and Collective Fluctuations in Evolutionary Games+ Smith E
+1482+Synchrotron Radiation � An everyday application of special relativity+ Rubensson J
+1483+Talking Renewables � A renewable energy primer for everyone+ Singh A
+1484+Teaching Physics through Ancient Chinese Science and Technology+ Marone M
+1485+Technical Fundamentals of Radiology and CT+ Avenda�o Cervantes G
+1486+Techniques of Classical Mechanics � From Lagrangian to Newtonian mechanics+ Zain P S B
+1487+The Chandra X-ray Observatory � Exploring the high energy universe+ Wilkes D B J
+1488+The Continuing Quest for Missile Defense � When lofty goals confront reality+ Pella P
+1489+The Cosmic 21-cm Revolution � Charting the first billion years of our universe+ Mesinger P A
+1490+The Doppler Method for the Detection of Exoplanets+ Hatzes P A
+1491+The Electric Dipole Moment Challenge+ Talman R M
+1492+The Electrostatic Accelerator � A versatile tool+ Hellborg R
+1493+The Embedding Method for Electronic Structure+ Inglesfield J
+1494+The Everyday Physics of Hearing and Vision+ de Mayo B
+1495+The Foundations of Electric Circuit Theory+ Harsha N R S
+1496+The Globular Star Clusters of the Andromeda Galaxy+ Sakari C M
+1497+The Integrated Electro-Mechanical Drive � A mechatronic approach+ Fijalkowski P B
+1498+The Manhattan Project � A very brief introduction to the physics of nuclear weapons+ Reed B C
+1499+The Melencolia Manifesto+ Finkelstein D R
+1500+The Midlife Crisis of the Nuclear Nonproliferation Treaty+ Pella P
+1501+The Molecule as Meme+ Williams J H
+1502+The M�ssbauer Effect+ Dunlap R A
+1503+The Most Interesting Galaxies in the Universe+ Schiff J L
+1504+The Mystery of Carbon � An introduction to carbon materials+ Razeghi M
+1505+The NASA Kepler Mission+ Howell S B
+1506+The Nuclear Nonproliferation Treaty+ Davenport K
+1507+The Physical Microbe � An introduction to noise, control, and communication in the prokaryotic cell+ Hagen S J
+1508+The Physics and Art of Photography, Volume 1 � Geometry and the nature of light+ Beaver J
+1509+The Physics and Art of Photography, Volume 2 � Energy and color+ Beaver J
+1510+The Physics and Art of Photography, Volume 3 � Detectors and the meaning of digital+ Beaver J
+1511+The Physics and Mathematics of MRI+ Ansorge R
+1512+The Physics of Destructive Earthquakes+ Thomas F
+1513+The Physics of Emergence+ Bishop R C
+1514+The Physics of Noise+ Milotti E
+1515+The Physics of Thermoelectric Energy Conversion+ Goldsmid H J
+1516+The Possibility of Earthquake Forecasting � Learning from nature+ Pulinets S
+1517+The Ringed Planet � Cassini's voyage of discovery at Saturn+ Colwell J
+1518+The Ringed Planet (Second Edition) � Cassini's voyage of discovery at Saturn+ Colwell J
+1519+The Search and Discovery of the Higgs Boson � A brief introduction to particle physics+ Castillo L R F
+1520+The Statistical Eyeglasses � The math behind scientific knowledge+ Milotti E
+1521+The Tai Chi in Star Formation+ Li H
+1522+The Tao of Microelectronics+ Zhang Y
+1523+The Universe Untangled � Modern physics for everyone+ Pillitteri A
+1524+The Wigner Function in Science and Technology+ Ferry D K
+1525+Theoretical Fluid Mechanics+ Fitzpatrick R
+1526+Theories of Matter, Space and Time, Volume 1 � Classical theories+ Evans N
+1527+Theories of Matter, Space and Time, Volume 2 � Quantum Theories+ Evans N
+1528+Theory of Electromagnetic Pulses+ Lekner J
+1529+Theory of Magnetoelectric Properties of 2D Systems+ Lin M
+1530+Thermal Properties of Matter+ Khachan J
+1531+Thermoacoustic Tomography � Principles and applications+ Jiang P H
+1532+Thermodynamics of Complex Systems � Principles and applications+ Pokrovskii P V N
+1533+Through a Modern Microscope � Optical experiments on soft matter+ Srinivasarao M
+1534+Time and Time Again � Determination of longitude at seain the 17th Century+ de Grijs P R
+1535+Time-Domain Studies of the Andromeda Galaxy+ Lee C
+1536+Topological Insulators+ Kotetes P
+1537+Transformations of Materials+ Vvedensky D D
+1538+Transmission and Processing for Data Center Networking+ Binh P D L N
+1539+Transport in Semiconductor Mesoscopic Devices, Second edition+ Ferry D K
+1540+Transport in Semiconductor Mesoscopic Devices+ Ferry D K
+1541+Truth and Traceability in Physics and Metrology+ Grabe M
+1542+Tying Light in Knots � Applying topology to optics+ Simon D S
+1543+Ultrafast Spectroscopy � Quantum information and wavepackets+ Aspuru-Guzik A n
+1544+Ultrasound-Mediated Imaging of Soft Materials+ Vasu P R M
+1545+Understanding Sonoluminescence+ Brennan T
+1546+Understanding Stellar Evolution+ Lamers H J G L M
+1547+Understanding the Magic of the Bicycle � Basic scientific explanations to the two-wheeler's mysterious and fascinating behavior+ Connolly J W
+1548+Unexpected Similarities of the Universe with Atomic and Molecular Systems: What a Beautiful World+ Oks E
+1549+Vascular and Intravascular Imaging Trends, Analysis, and Challenges, Volume 1 � Stent applications+ Radeva P P
+1550+Vascular and Intravascular Imaging Trends, Analysis, and Challenges, Volume 2 � Plaque characterization+ Radeva P P
+1551+Visible Light Communications � Vehicular applications+ Fernando P X
+1552+Visual Astronomy � A guide to understanding the night sky+ Photinos P
+1553+Waves � Fundamentals and dynamics+ Yoshida S
+1554+Wearable Communication Systems and Antennas for Commercial, Sport and Medical Applications+ Sabban P D A
+1555+Wearable Sensors � Applications, design and implementation+ Mukhopadhyay S
+1556+What�s the Matter with Waves? � An introduction to techniques and applications of quantum mechanics+ Parkinson W
+1557+Wide Bandgap Semiconductor-Based Electronics+ Ren F
+1558+Women and Physics+ McCullough L
+1559+Women in Physics+ Foley C
